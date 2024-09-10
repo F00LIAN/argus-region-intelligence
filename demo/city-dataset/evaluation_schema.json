@@ -1,0 +1,50 @@
+{
+    "Project Name": {
+        "CustomStringEvaluator": {
+            "IGNORE_DOTS": "True"
+        }
+    },
+
+        "Date": {},
+        "Land Info": {
+            "Land Use and Zoning": {
+                "CustomStringEvaluator": {
+                    "IGNORE_DASHES": "True",
+                    "IGNORE_PARENTHETHIS": "True"
+                }
+            },
+            "acreage": {},
+            "APN Number": {
+                "CustomStringEvaluator": {
+                    "IGNORE_DASHES": "True"
+                }
+            },
+            "Phone": {
+                "CustomStringEvaluator": {
+                    "IGNORE_DASHES": "True",
+                    "IGNORE_PARENTHETHES": "True"
+                }
+            }
+        },
+
+        "Project Description": {
+            "Permit Number": {},
+            "square feet": {
+                "CustomStringEvaluator": {
+                    "IGNORE_COMMAS": "True"
+                }
+            },
+            "description": {}
+        },
+
+        "Environmental Information": {
+            "Project Name": {},
+            "Categorical Exemption": {},
+            "Consistency with General Plan": {},
+            "Site Size": {},
+            "Habitat Value for Endangered Species": {},
+            "Significant Effects on Traffic, Noise, Air, Water": {},
+            "Utilities and Public Services Availability": {},
+            "Meets all Requirements": {}
+        }
+    }

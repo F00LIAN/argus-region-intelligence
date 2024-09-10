@@ -1,0 +1,44 @@
+{
+  "id": "current_menifee_planning_report",
+  "categorization": "",
+  "title": "Current Menifee Planning Report",
+  "type": "object",
+  "properties": {
+    "project": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "date": { "type": "string", "format": "date" }
+      }
+    },
+    "land_info": {
+      "type": "object",
+      "properties": {
+        "land_use_and_zoning": { "type": "string" },
+        "acreage": { "type": "number" },
+        "apn_number": { "type": "string" }
+      }
+    },
+    "project_description": {
+      "type": "object",
+      "properties": {
+        "permit_number": { "type": "string" },
+        "square_feet": { "type": "number" },
+        "description": { "type": "string" }
+      }
+    },
+    "environmental_information": {
+      "type": "object",
+      "properties": {
+        "project_name": { "type": "string" },
+        "categorical_exemption": { "type": "string" },
+        "consistency_with_general_plan": { "type": "boolean" },
+        "site_size": { "type": "string" },
+        "habitat_value_for_endangered_species": { "type": "boolean" },
+        "significant_effects_on_traffic_noise_air_water": { "type": "boolean" },
+        "utilities_and_public_services_availability": { "type": "boolean" },
+        "meets_all_requirements": { "type": "boolean" }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+    "Project Name": {
+        "value": "United Carports DEV2022-009, PLN22-045",
+        "evaluators": {
+            "MatchEvaluator": {
+                "IGNORE_DOTS": "True"
+            }
+        }
+    },
+    "Date": {
+        "value": "March 27, 2024"
+    },
+
+    "Land Info": {
+        "Land Use and Zoning": {
+            "value": "Economic Development Corridor Northern Gateway EDCNG",
+            "evaluators": {
+                "MatchEvaluator": {
+                    "IGNORE_DASHES": "True",
+                    "IGNORE_PARENTHETHIS": "True"
+                }
+            }
+        },
+        "acreage": {
+            "value": "3.77"
+        },
+       "APN Number": {
+        "value": "329030062",
+        "evaluators": {
+            "MatchEvaluator": {
+                "IGNORE_DASHES": "True"
+                }
+            }
+        }
+    },
+
+    "Project Description": {
+        "Permit Number": {
+            "value": "DEV No. 2022-009, PLN No. 22-045"
+        },
+        "square feet": {
+            "value": "58924",
+            "evaluators": {
+            "MatchEvaluator": {
+                "IGNORE_COMAS": "True"
+                }
+            }
+        },
+        "description": {
+            "value": "pre-manufactured industrial building"
+        }
+    },
+    
+    "Environmental Information": {
+        "Project Name": {
+            "value": "Menifee In-Fill Development Project"
+        },
+        "Categorical Exemption": {
+            "value": "Section 15332 In-Fill Development Projects (Class 32)"
+        },
+        "Consistency with General Plan": {
+            "value": "yes"
+        },
+        "Site Size": {
+            "value": "No larger than five acres"
+        },
+        "Habitat Value for Endangered Species": {
+            "value": "No value"
+        },
+        "Significant Effects on Traffic, Noise, Air, Water": {
+            "value": "No significant effects"
+        },
+        "Utilities and Public Services Availability": {
+            "value": "Adequately served"
+        },
+        "Meets all Requirements": {
+            "value": "yes"
+        }
+    }
+}
